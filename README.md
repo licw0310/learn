@@ -6,3 +6,5 @@ bhjbb
 nkl
 123
 fun2()=>{}
+
+var test2 = 2;
